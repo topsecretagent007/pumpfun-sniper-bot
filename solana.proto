@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package solana;
+
+service SolanaTransactionService {
+  rpc SendTransaction (SendTransactionRequest) returns (SendTransactionResponse);
+}
+
+message SendTransactionRequest {
+  bytes transaction = 1; // Serialized transaction
+}
+
+message SendTransactionResponse {
+  string signature = 1; // Transaction signature
+}
