@@ -22,7 +22,7 @@ sell: [https://solscan.io/tx/5QDYSiST7KX9viNZXSeSATZYMJ5ioJrHJxqu9DVwFzREMarwwma
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/topsecretagent007/Pumpfun-sniper-grpc-V5.2.git
+    git clone https://github.com/topsecretagent007/Pumpfun-sniper-bot.git
     ```
 
 2. **Install Dependencies**:
