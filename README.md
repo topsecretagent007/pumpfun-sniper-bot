@@ -81,4 +81,4 @@ sell: [https://solscan.io/tx/5QDYSiST7KX9viNZXSeSATZYMJ5ioJrHJxqu9DVwFzREMarwwma
 
 Gmail: lendonbracewell1114@gmail.com
 
-Telegram: [@Topsecretagent007](https://t.me/topsecretagent_007)
+Telegram: [@Topsecretagent_007](https://t.me/topsecretagent_007)
